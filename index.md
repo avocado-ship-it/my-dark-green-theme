@@ -1,4 +1,7 @@
 ---
+home
 ---
 
-# tonic-starter
+# dark-green-theme
+
+*my dark green theme is so fucking cool
