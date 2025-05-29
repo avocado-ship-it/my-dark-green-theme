@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: dark-green-theme
+description: "really nice dark forest green inspired theme"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
